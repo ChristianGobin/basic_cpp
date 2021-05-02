@@ -34,7 +34,14 @@ void franks_cleaning_calc(int number_of_small, int number_of_large){
 	calculated_tax = (spt + lpt) * tax;
 	final_cost = calculated_tax + cost_before_taxes;
 
-	cout << "Estimate for carpet cleaning service:\nNumber of Small Rooms: " << number_of_small << "\nNumber of Large Rooms: " << number_of_large << "\nPrice per Small Room: " << small_room_rate << "\nPrice per Large Room: " << large_room_rate << "\nCost: " << cost_before_taxes << "(before tax)\nTax: " << tax << "\n==================\nTotal: " << final_cost << "\nThis offer is valid for 30 days." << endl;
+	cout << "Estimate for carpet cleaning service:\nNumber of Small Rooms: " << number_of_small 
+		<< "\nNumber of Large Rooms: " << number_of_large 
+		<< "\nPrice per Small Room: " << small_room_rate 
+		<< "\nPrice per Large Room: " << large_room_rate 
+		<< "\nCost: " << cost_before_taxes 
+		<< "(before tax)\nTax: " << tax 
+		<< "\n==================\nTotal: " << final_cost 
+		<< "\nThis offer is valid for 30 days." << endl;
 }
 
 
