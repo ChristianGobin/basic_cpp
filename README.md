@@ -8,7 +8,7 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dd>
       Used: Function Declaration and Call, Constant Definitions, Arithmetic Operators, Read Input from istream and stored values, printed data to ostream.
     </dd>
-    <dt>Vector Datatype</dt>
+    <dt>Vector Data Structure</dt>
     <dd>
         Initialized, Accessed & Modified Vector Values.
         Solved vector problem sets.
