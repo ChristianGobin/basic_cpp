@@ -11,5 +11,6 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dt>Vector Datatype</dt>
     <dd>
         Initialized, Accessed & Modified Vector Values.
+        Solved vector problem sets.
     </dd>
 </dl>
