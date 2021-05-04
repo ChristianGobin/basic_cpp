@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 int main(){
    int total_people_waiting;
 
@@ -14,3 +17,4 @@ int main(){
    cout << total_people_waiting << endl;
    return 0;
 }
+/* Breakdown of code */
