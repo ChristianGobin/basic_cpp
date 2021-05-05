@@ -15,8 +15,11 @@ This is just a log of my progress while learning C++. From basic data types to p
             input, you need to calculate and output how many empty seats the last bus will have.
         </p>
     </dd>
-    <dt>Vector Data Structures</dt>
+    <dt>Vector Section Challenge</dt>
     <dd>
-        Practiced Initializing and manipulating vectors.
+        Practice Initializing and manipulating vectors.
+        <p> 
+            Used: Vector Object Methods, size(), at(), push_back().
+        </p>
     </dd>
 </dl>
