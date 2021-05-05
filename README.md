@@ -17,7 +17,6 @@ This is just a log of my progress while learning C++. From basic data types to p
     </dd>
     <dt>Vector Data Structures</dt>
     <dd>
-        Initialized, Accessed & Modified Vector Values.
-        Solved vector problem sets.
+        Practiced Initializing and manipulating vectors.
     </dd>
 </dl>
