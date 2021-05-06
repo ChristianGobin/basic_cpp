@@ -32,5 +32,5 @@ This is just a log of my progress while learning C++. From basic data types to p
         </ul>
     </dd>
     <dt><a href="https://www.hackerrank.com/challenges/arrays-introduction/problem">HackerRank Arrays Introduction</a></dt>
-    <dd>You will be given an array of  integers and you have to print the integers in the reverse order.</dd>
+    <dd>You will be given an array of N integers and you have to print the integers in the reverse order.</dd>
 </dl>
