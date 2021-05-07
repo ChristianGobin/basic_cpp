@@ -1,5 +1,5 @@
 /* 
-	Change Maker.
+	Cent Converter.
 	Given a user input of type int display the denominations that can be returned to the user.
 */
 #include <iostream>
