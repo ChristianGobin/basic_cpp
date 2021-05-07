@@ -33,4 +33,14 @@ This is just a log of my progress while learning C++. From basic data types to p
     </dd>
     <dt><a href="https://www.hackerrank.com/challenges/arrays-introduction/problem">HackerRank Arrays Introduction</a></dt>
     <dd>You will be given an array of N integers and you have to print the integers in the reverse order.</dd>
+    <dt>Cent Converter</dt>
+    <dd>
+        <p>
+        Write a program that asks the user to enter the following: an integer representing the number of cents. The Program should then display how to provide that change to the user. My denominations are in USD where:
+            <li> 100 cents = 1 dollar </li>
+            <li> 25 cents = 1 quarter </li>
+            <li> 10 cents = 1 dime </li>
+            <li> 5 cents = 1 nickel </li>
+        </p>
+    </dd>
 </dl>
