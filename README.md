@@ -37,10 +37,12 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dd>
         <p>
         Write a program that asks the user to enter the following: an integer representing the number of cents. The Program should then display how to provide that change to the user. My denominations are in USD where:
-            <li> 100 cents = 1 dollar </li>
-            <li> 25 cents = 1 quarter </li>
-            <li> 10 cents = 1 dime </li>
-            <li> 5 cents = 1 nickel </li>
+            <ul>
+                <li> 100 cents = 1 dollar </li>
+                <li> 25 cents = 1 quarter </li>
+                <li> 10 cents = 1 dime </li>
+                <li> 5 cents = 1 nickel </li>
+            </ul>
         </p>
     </dd>
 </dl>
