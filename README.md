@@ -45,4 +45,8 @@ This is just a log of my progress while learning C++. From basic data types to p
             </ul>
         </p>
     </dd>
+    <dt><a href="https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem">HackerRank Basic Datatypes</a></dt>
+    <dd>
+        Given user input separated by spaces, read in each int, long, char, float, double. Next output the data on a separate line.
+    </dd>
 </dl>
