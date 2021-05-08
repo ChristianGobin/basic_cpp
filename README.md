@@ -47,10 +47,12 @@ This is just a log of my progress while learning C++. From basic data types to p
     </dd>
     <dt><a href="https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem">HackerRank Basic Datatypes</a></dt>
     <dd>
-        Given user input separated by spaces, read in each int, long, char, float, double. Next output the data on a separate line.
+        Given user input separated by spaces, read in each: int, long, char, float, double. Next output the data on a separate line.
     </dd>
     <dt>
-    <a href="https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?h_r=next-challenge&h_v=zen&isFullScreen=false">Conditional Statements</a>
+        <a href="https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem?h_r=next-challenge&h_v=zen&isFullScreen=false">
+            HackerRank Conditional Statements
+        </a>
     </dt>
     <dd>
         Take user data and use conditional statements to test for specific value.
