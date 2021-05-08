@@ -57,4 +57,18 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dd>
         Take user data and use conditional statements to test for specific value.
     </dd>
+    <dt>
+        <a href="https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem?h_r%5B%5D%5B%5D=next-challenge&h_r%5B%5D%5B%5D=next-challenge&h_v%5B%5D%5B%5D=zen&h_v%5B%5D%5B%5D=zen&isFullScreen=false"> 
+            HackerRank For Loop 
+        </a>
+    </dt>
+    <dd>
+        You will be given 2 positive integers: a, b. Where (a <= b) separated by a new line.<br/>
+        For each integer n between [a,b] inclusive interval:
+        <ul>
+            <li> if n >= 1 and n <= 9: print the english representation of the number. (ex. 8 -> "eight") </li>
+            <li> else if n > 9 and even: print even. </li>
+            <li> else if n > 9 and odd: print odd. </li>
+        </ul>
+    </dd>
 </dl>
