@@ -71,4 +71,10 @@ This is just a log of my progress while learning C++. From basic data types to p
             <li> else if n > 9 and odd: print odd. </li>
         </ul>
     </dd>
+    <dt>
+        <a href="https://www.hackerrank.com/challenges/c-tutorial-functions/problem?isFullScreen=false">HackerRank Functions Problem</a>
+    </dt>
+    <dd>
+        Given 4 inputs of type int: write a function that will return the greatest value.
+    </dd>
 </dl>
