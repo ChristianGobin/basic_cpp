@@ -77,4 +77,8 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dd>
         Given 4 inputs of type int: write a function that will return the greatest value.
     </dd>
+    <dt>While Loop Exercise</dt>
+    <dd>
+    Given a vector of integers, determine how many integers are present before you see the value -99. Note, it's possible -99 is not in the vector! If -99 is not in the vector then the result will be equal to the number of elements in the vector. The final result should be stored in an integer named count.
+</dd>
 </dl>
