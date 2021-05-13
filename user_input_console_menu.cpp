@@ -33,9 +33,28 @@ void Menu(){
 			for(auto i : nums){
 				std::cout << i;
 			}
+		    case 'L':
+    case 'l':
+      int l {0};
+      for(auto i: nums){
+        if(l < i){
+          l = i;
+        }
+      } 
+      std::cout << l << std::endl;
+    case 'S':
+    case 's':
+      int s {0};
+      for(auto si : nums){
+        if(s < si){
+          s = si;
+        }
+      }
+      std::cout << s << std::endl;
+    case 'M':
+    case 'm':
+      int mean {0};
+      //find average and cout
 			
 	}
-	
-	
-	
 }
