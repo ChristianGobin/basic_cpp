@@ -81,4 +81,19 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dd>
     Given a vector of integers, determine how many integers are present before you see the value -99. Note, it's possible -99 is not in the vector! If -99 is not in the vector then the result will be equal to the number of elements in the vector. The final result should be stored in an integer named count.
 </dd>
+    <dt>User Input Console Menu</dt>
+    <dd>
+        Create a Console Application that takes an integer list, and allows users to enter a character to perform an action on the list.
+        <p>
+            Actions able to execute and their function:
+            <ul>
+                <li>Add: ('A','a') -> Prompt user for integer to append to list.</li>
+                <li>Print: ('P','p') -> Print list to the console.</li>
+                <li>Mean: ('M','m') -> Display mean of list Values.</li>
+                <li>Smallest: ('S','s') -> Display smallest integer in list.</li>
+                <li>Largest: ('L','l') -> Display largest integer in list.</li>
+                <li>Quit: ('Q','q') -> Quit menu. </li>
+            </ul>
+        </p>
+    </dd>
 </dl>
