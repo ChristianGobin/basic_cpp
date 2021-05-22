@@ -96,4 +96,10 @@ This is just a log of my progress while learning C++. From basic data types to p
             </ul>
         </p>
     </dd>
+    <dt>
+        <a href="https://www.hackerrank.com/challenges/c-tutorial-pointer/problem?isFullScreen=true">HackerRank Pointer</a>
+    </dt>
+    <dd>
+        Manipulate 2 pointers to have the requested values.
+    </dd>
 </dl>
