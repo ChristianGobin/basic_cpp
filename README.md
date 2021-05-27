@@ -102,4 +102,10 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dd>
         Manipulate 2 pointers to have the requested values.
     </dd>
+    <dt>
+        <a href="https://www.hackerrank.com/challenges/c-tutorial-class/problem?isFullScreen=true">HackerRank Class</a>
+    </dt>
+    <dd>
+        Define a Student class that has specific Modifiers and Accessors. The class will be given several types of input to assign to its private members.
+    </dd>
 </dl>
