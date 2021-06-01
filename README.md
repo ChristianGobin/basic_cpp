@@ -108,4 +108,19 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dd>
         Define a Student class that has specific Modifiers and Accessors. The class will be given several types of input to assign to its private members.
     </dd>
+    <dt>
+        Vector Console Menu Appication
+    </dt>
+    <dd>
+        Users can manipulate values of a Vector Int Array using a console menu. The menu takes the input of the user and performs the corresponding operation on the vector. Upper and Lower cases for each choice are supported. These include :
+    <ul>
+        <li> "P" - Print All Values in array </li>
+        <li> "A" - Add Int to array </li>
+        <li> "M" - Print Mean of array </li>
+        <li> "S" - Print Smallest int of array </li>
+        <li> "L - Print Largest int of array </li>
+        <li> "Q" - Quit program </li>
+    </ul>
+    
+    </dd>
 </dl>
