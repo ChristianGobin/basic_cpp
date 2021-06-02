@@ -107,4 +107,10 @@ This is just a log of my progress while learning C++. From basic data types to p
             <li> "Q" - Quit program </li>
         </ul>
     </dd>
+    <dt>
+        String Reverse Function
+    </dt>
+    <dd>
+        Program returns string reversed string.
+    </dd>
 </dl>
