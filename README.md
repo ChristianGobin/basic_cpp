@@ -111,6 +111,6 @@ This is just a log of my progress while learning C++. From basic data types to p
         String Reverse Function
     </dt>
     <dd>
-        Program returns string reversed string.
+        Program requests user input, and returns the reversed version of the string.
     </dd>
 </dl>
