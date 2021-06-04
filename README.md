@@ -113,4 +113,15 @@ This is just a log of my progress while learning C++. From basic data types to p
     <dd>
         Program requests user input, and returns the reversed version of the string.
     </dd>
+    <dt>
+        Text Pyramid
+    </dt>
+    <dd>
+        Write a C++ program that displays a Letter Pyramid from a user-provided std::string.
+        Prompt the user to enter a std::string and then from that string display a Letter Pyramid as follows:
+        If the user enters the string "ABC", then your program should display:
+                         A                                                                                                                    
+                        ABA                                                                                                                   
+                       ABCBA
+    </dd>
 </dl>
