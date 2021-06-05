@@ -122,6 +122,6 @@ This is just a log of my progress while learning C++. From basic data types to p
         If the user enters the string "ABC", then your program should display:
                          A                                                                                                                    
                         ABA                                                                                                                   
-                       ABCBA
+                       ABCBA -> Each on a separate line with centered spacing
     </dd>
 </dl>
