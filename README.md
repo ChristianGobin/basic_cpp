@@ -124,4 +124,17 @@ This is just a log of my progress while learning C++. From basic data types to p
                         ABA                                                                                                                   
                        ABCBA -> Each on a separate line with centered spacing
     </dd>
+    <dt>
+        <a href="https://www.hackerrank.com/challenges/classes-objects/problem?isFullScreen=true">
+            Classes and Objects
+        </a>
+    </dt>
+    <dd>
+        Create a class named Student with the following specifications:
+        <ul>
+            <li> An instance variable named scores to hold a student's  exam scores. </li>
+            <li> A void input() function that reads 5 integers and saves them to scores </li>
+            <li> An int calculateTotalScore() function that returns the sum of the student's scores. </li>
+        </ul>
+    </dd>
 </dl>
