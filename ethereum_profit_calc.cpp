@@ -1,9 +1,9 @@
 #include <iostream>
-
+using namespace std;
 float calc_eth_profits(float entry_price, float amount_held);
 
 int main(){
-    calc_eth_profits(11295, 200.1);
+    calc_eth_profits(2100, 30);
 }
 
 float calc_eth_profits(float entry_price, float amount_held){
