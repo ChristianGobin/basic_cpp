@@ -4,6 +4,13 @@
 This is just a log of my progress while learning C++. From basic data types to pointers and more.
 </p>
 <dl>
+    <dt>
+        <a href="https://www.codewars.com/kata/541c8630095125aba6000c00/train/cpp"> Code Wars: Sum of Digits / Digital Root </a> ::construction::
+    </dt>
+    <dd>
+        Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is      
+        produced. The input will be a non-negative integer.
+    </dd>
     <dt>Franks Carpet Cleaning Console Application</dt>
     <dd>
       Used: Function Declaration and Call, Constant Definitions, Arithmetic Operators, Read Input from istream and stored values, printed data to ostream.
