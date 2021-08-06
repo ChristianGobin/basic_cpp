@@ -5,7 +5,7 @@ This is just a log of my progress while learning C++. From basic data types to p
 </p>
 <dl>
     <dt>
-        <a href="https://www.codewars.com/kata/541c8630095125aba6000c00/train/cpp"> Code Wars: Sum of Digits / Digital Root </a> ::construction::
+        <a href="https://www.codewars.com/kata/541c8630095125aba6000c00/train/cpp"> Code Wars: Sum of Digits / Digital Root </a> :construction:
     </dt>
     <dd>
         Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is      
